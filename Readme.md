@@ -12,8 +12,8 @@ Open Source Contributions: I'm open for active  contributions to open source pro
 Contact
 In my free time, you can find me tinkering with new technologies, reading up on the latest industry trends, or exploring the great outdoors. Let's connect and build something amazing together!
 
-GitHub: your GitHub profile link
+GitHub: https://github.com/ajayp1717/ajayp1717
 
-LinkedIn: your LinkedIn profile link
+LinkedIn: https://www.linkedin.com/in/ajayp1717
 
-Email: your email address
+Email: ajay.pict@gmail.com
