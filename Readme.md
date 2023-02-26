@@ -11,7 +11,7 @@
 
 - 📫 How to reach out to me: **ajay.pict@gmail.com**
 
-- 📄 Know about my experiences: [shorturl.at/ehH35](shorturl.at/ehH35)
+- 📄 Know about my experiences: https://tinyurl.com/3h8h33xz
 
 - ⚡ Fun fact: **I think I am sarcastically funny😉**
 
