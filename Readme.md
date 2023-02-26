@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full Stack Development, Cloud Computing and DSA**
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about: **MERN Stack Development**
 
-- 📫 How to reach me **ajay.pict@gmail.com**
+- 📫 How to reach out to me: **ajay.pict@gmail.com**
 
 - 📄 Know about my experiences [shorturl.at/ehH35](shorturl.at/ehH35)
 
-- ⚡ Fun fact **I think I am sarcastically funny😉**
+- ⚡ Fun fact: **I think I am sarcastically funny😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
