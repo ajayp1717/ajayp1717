@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Coder, Problem Solver and a Web Developer</h3>
 
 <img align="right" alt="coding" width="400"  src="code_GIF.gif" />
 
