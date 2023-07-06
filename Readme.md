@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently upskilling myself in **Full Stack Development, DSA and Cloud Computing**
 
-- 💬 Ask me about: **MERN Stack Development**
+- 💬 Ask me about: **DSA, MERN Stack Development**
 
 - 📫 How to reach out to me: **ajay.pict@gmail.com**
-
-- 📄 Know about my experiences: https://tinyurl.com/3h8h33xz
 
 - ⚡ Fun fact: **I think I am sarcastically funny😉**
 
@@ -20,6 +18,7 @@
 <a href="https://linkedin.com/in/ajayp1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayp1717" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ajayp_1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajayp_1717" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayp_1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayp_1717" height="30" width="40" /></a>
+<a href="https://geeksforgeeks.org/user/ajaypict/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg.svg" alt="ajayp_1717" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
