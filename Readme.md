@@ -15,9 +15,9 @@ A passionate coder, problem solver, and web developer. I love to explore new tec
 - ⚡ Fun fact: **I think I am sarcastically funny😉**
 
 <!-- Interactive Badges -->
-![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-blue)
-![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-green)
-![Web Developer](https://img.shields.io/badge/-Web%20Developer-orange)
+![Full Stack Web Developer](https://img.shields.io/badge/-Full%20Stack%20Web%20Developer-blue)
+![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-red)
+
 
 <!-- GitHub Stats and Contributions -->
 #### GitHub Stats
