@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate Coder, Problem Solver and a Web Developer</h3>
+<!-- Your Profile Header Image -->
+<img src="code_GIF.gif" alt="Profile Banner" />
 
-<img align="right" alt="coding" width="400"  src="code_GIF.gif" />
+<!-- Introduction -->
+### Hi there, I'm Ajay 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayp1717&label=Profile%20views&color=0e75b6&style=flat" alt="ajayp1717" /> </p>
+A passionate coder, problem solver, and web developer. I love to explore new technologies and build exciting projects.
 
 - 🌱 I’m currently upskilling myself in **Full Stack Development, DSA and Cloud Computing**
 
@@ -13,12 +14,28 @@
 
 - ⚡ Fun fact: **I think I am sarcastically funny😉**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajayp1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayp1717" height="30" width="40" /></a>
-<a href="https://instagram.com/ajayp_1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayp_1717" height="30" width="40" /></a>
+<!-- Interactive Badges -->
+![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-blue)
+![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-green)
+![Web Developer](https://img.shields.io/badge/-Web%20Developer-orange)
 
-</p>
+<!-- GitHub Stats and Contributions -->
+#### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayp1717&show_icons=true&locale=en)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ajayp1717)
+
+
+<!-- Animated Profile GIF -->
+![Coding GIF](code_GIF.gif)
+
+<!-- Interactive Buttons -->
+#### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ajayp1717)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://instagram.com/ajayp_1717)
+[![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:ajay.pict@gmail.com)
+
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
@@ -95,8 +112,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayp1717&show_icons=true&locale=en&layout=compact" alt="ajayp1717" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayp1717&show_icons=true&locale=en" alt="ajayp1717" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayp1717&" alt="ajayp1717" /></p>
