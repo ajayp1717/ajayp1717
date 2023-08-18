@@ -1,5 +1,5 @@
 <!-- Your Profile Header Image -->
-<img src="code_GIF.gif" alt="Profile Banner" />
+<img src="GitHub_banner.png" alt="Profile Banner" />
 
 <!-- Introduction -->
 ### Hi there, I'm Ajay 👋
