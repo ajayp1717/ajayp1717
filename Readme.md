@@ -1,115 +1,53 @@
-<!-- Your Profile Header Image -->
-<img src="GitHub_banner 2.png" alt="Profile Banner"/>
+[![Personal][personal-shield]][personal-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![][email-shield]][email-url]
 
-<!-- Introduction -->
-### Hi there, I'm Ajay 👋
-
-A passionate coder, problem solver, and web developer. I love to explore new technologies and build exciting projects.
-
-- 🌱 I’m currently upskilling myself in **Full Stack Development, DSA and Cloud Computing**
-
-- 💬 Ask me about: **DSA, MERN Stack Development**
-
-- 📫 How to reach out to me: **ajay.pict@gmail.com**
-
-- ⚡ Fun fact: **I think I am sarcastically funny😉**
-
-<!-- Interactive Badges -->
-![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-red)
-![Full Stack Web Developer](https://img.shields.io/badge/-Full%20Stack%20Web%20Developer-blue)
-
-
-
-<!-- GitHub Stats and Contributions -->
-#### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayp1717&show_icons=true&locale=en)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ajayp1717)
-
-
-<!-- Animated Profile GIF -->
-![Coding GIF](code_GIF.gif)
-
-<!-- Interactive Buttons -->
-#### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ajayp1717)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://instagram.com/ajayp_1717)
-[![Email](https://img.shields.io/badge/Email-Contact-success)](mailto:ajay.pict@gmail.com)
-
-
-<h3 align="left">Coding Profiles:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/ajayp_1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajayp_1717" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajaypict" target="blank"><img align="center" src="icons8-geeksforgeeks.svg" alt="ajayp_1717" height="30" width="40" /></a>
+<p align="center">
+<a href="https://code-chronicle-ajay.netlify.app/"><img width="90%" alt="I am Ajay" src="./GitHub_banner 2.png" /></a>
+<a href="https://code-chronicle-ajay.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7CC&center=true&vCenter=true&width=435&lines=Software+Developer+%26+Student;Learning+%26+Building+%26+Exploring" alt="Typing" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
-  </a>
+I'm a software developer with a strong focus on Software Development and Cloud Computing, currently pursuing a bachelor's degree in Computer Science and Engineering at the Pune Institute of Information Technology. I enjoy building web applications that create flexibility and prioritize scalability while delivering efficient solutions. In my journey as a developer, I have gained experience in building full-stack web applications using technologies including React.JS, Node, Express, MongoDB and SQL.
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-      height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" />
-  </a>
+My career goal is to build and develop high-quality applications by utilizing best-fit technologies to deliver sustainable solutions and reliable products that meet customer needs and bring business value.
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" />
-  </a>
-</p>
+### 🔭 Expertise
+
+- Languages: C++, JavaScript, SQL, HTML, CSS, Python
+- Libraries & Frameworks: React.js, Node.js, Express.js, Bootstrap, Tailwind CSS, NumPy, Pandas
+- Developer Tools: Postman, Thunder Client, MongoDB, MySQL, Github, Git, VS Code
+- Also familiar with Amazon Web Services, GCP, etc.
+
+### 📙 I’m currently learning
+
+- Cloud Computing
+- Software Architecture
+- System Design
 
 
+### 📫 How to reach out to me:
+
+- LinkedIn: [@ajayp1717](https://www.linkedin.com/in/ajayp1717/)
+- Resume: [Ajay Patil](https://drive.google.com/file/d/1al_DsmgJLOri7vIyAzJsLnQ2ftYOIkSw/view?usp=drive_link)
+- More about me - [Portfolio](https://code-chronicle-ajay.netlify.app/)
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ajayp1717&theme=one-dark-pro&border=3B4048&card_width=465&number_format#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=ajayp1717&theme=ayu-light&border=e2e2e2&background=ffffff&card_width=465#gh-light-mode-only"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayp1717&show_icons=true" height="192px"/>
+</picture>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayp1717&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=one_dark_pro#gh-dark-mode-only"><img alt="Ajay's Top Languages (refresh)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayp1717&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&langs_count=8&count_weight=0.5&layout=compact&theme=one_dark_pro#gh-dark-mode-only" height="192px"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayp1717&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only"><img alt="Ajay's Top Languages (refresh)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayp1717&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only" height="192px"/></a>
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
+[linkedin-url]: https://www.linkedin.com/in/ajayp1717/
+[personal-shield]: https://img.shields.io/badge/Ajay-Patil-75bbe2?style=for-the-badge
+[personal-url]: https://code-chronicle-ajay.netlify.app/
+[email-shield]: https://img.shields.io/badge/email-153595?style=for-the-badge&logo=gmail&logoColor=white
+[email-url]: mailto:ajay.pict@gmail.com
