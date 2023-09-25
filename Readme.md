@@ -28,6 +28,7 @@ My career goal is to build and develop high-quality applications by utilizing be
 ### 📫 How to reach out to me:
 
 - LinkedIn: [@ajayp1717](https://www.linkedin.com/in/ajayp1717/)
+- Email: ajay.pict@gmail.com
 - Resume: [Ajay Patil](https://drive.google.com/file/d/1al_DsmgJLOri7vIyAzJsLnQ2ftYOIkSw/view?usp=drive_link)
 - More about me - [Portfolio](https://code-chronicle-ajay.netlify.app/)
 
