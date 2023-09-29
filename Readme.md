@@ -3,7 +3,7 @@
 [![][email-shield]][email-url]
 
 <p align="center">
-<a href="https://code-chronicle-ajay.netlify.app/"><img width="90%" alt="I am Ajay" src="./GitHub_banner 2.png" /></a>
+<a href="https://code-chronicle-ajay.netlify.app/"><img width="90%" alt="I am Ajay" src="https://github.com/ajayp1717/CuteLink-Shortener/assets/87872790/b7795cea-78c4-472a-8835-0a4a0b86355c" /></a>
 <a href="https://code-chronicle-ajay.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7CC&center=true&vCenter=true&width=435&lines=Software+Developer+%26+Student;Learning+%26+Building+%26+Exploring" alt="Typing" /></a>
 </p>
 
