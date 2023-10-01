@@ -1,6 +1,7 @@
 [![Personal][personal-shield]][personal-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![][email-shield]][email-url]
+![](https://komarev.com/ghpvc/?username=ajayp1717&color=green&base=0)
 
 <p align="center">
 <a href="https://code-chronicle-ajay.netlify.app/"><img width="90%" alt="I am Ajay" src="https://github.com/ajayp1717/CuteLink-Shortener/assets/87872790/b7795cea-78c4-472a-8835-0a4a0b86355c" /></a>
@@ -48,7 +49,7 @@ My career goal is to build and develop high-quality applications by utilizing be
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/ajayp1717/
-[personal-shield]: https://img.shields.io/badge/Ajay-Patil-75bbe2?style=for-the-badge
+[personal-shield]: https://img.shields.io/badge/Code-Chronicles-75bbe2?style=for-the-badge
 [personal-url]: https://code-chronicle-ajay.netlify.app/
 [email-shield]: https://img.shields.io/badge/email-153595?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:ajay.pict@gmail.com
